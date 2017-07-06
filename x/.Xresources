@@ -1,0 +1,66 @@
+### COLORS ###
+! special
+*.foreground:   #c0b18b
+*.background:   #1f1f1f
+*.cursorColor:  #c0b18b
+
+! black
+*.color0:       #4a3637
+*.color8:       #4a3637
+
+! red
+*.color1:       #d17b49
+*.color9:       #d17b49
+
+! green
+*.color2:       #7b8748
+*.color10:      #7b8748
+
+! yellow
+*.color3:       #af865a
+*.color11:      #af865a
+
+! blue
+*.color4:       #d17b49
+*.color12:      #d17b49
+
+! magenta
+*.color5:       #775759
+*.color13:      #775759
+
+! cyan
+*.color6:       #6d715e
+*.color14:      #6d715e
+
+! white
+*.color7:       #c0b18b
+*.color15:      #c0b18b
+
+
+### XSERVER ###
+Xft.dpi: 100
+Xft.autohint: 0
+Xft.lcdfilter:  lcddefault
+Xft.hintstyle:  hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+### ROFI ###
+#! ------------------------------------------------------------------------------
+#! ROFI Color theme
+#! ------------------------------------------------------------------------------
+#rofi.width: 2160
+#rofi.padding: 400
+#rofi.color-enabled: false
+#rofi.color-window: #1d2426, #0002b36, #0f7f0e6
+#rofi.color-normal: #01d2426, #f7f0e6, #1d2426, #1d2426, #1d2426
+#rofi.color-active: #f7f0e6, #1d2426, #1d2426, #1d2426, #fdf6e3
+#rofi.color-urgent: #1d2426, #dc322f, #1d2426, #1d2426, #dc322f
+
+### ALOCK ###
+ALock*background*name:  none
+ALock*cursor*name:        none
+ALock*input.frame*input:  white
+ALock*input.frame*check:  blue
+ALock*backlight:          true

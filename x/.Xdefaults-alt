@@ -1,0 +1,37 @@
+! Color-scheme : Relic Dark
+! Author       : stark <stark@openmailbox.org>
+
+*background: #1D2426
+*foreground: #F7F0E6
+
+! Alternate foreground
+!*foreground: #AB9C71
+
+URxvt.letterSpace:-1
+#URxvt.font: xft:monofur:size=11
+URxvt.font: xft:iosevka-regular:size=9
+urxvt*scrollBar: false
+URxvt.internalBorder:26
+*cursorColor: #BE5E1E
+URxvt.perl-ext-common: default,matcher
+URxvt.url-launcher: firefox
+URxvt.matcher.button: 1
+
+*color0:  #39474A
+*color1:  #986345
+*color2:  #788249
+*color3:  #9B6A46
+*color4:  #3E5951
+*color5:  #B9924A
+*color6:  #5d796a
+*color7:  #977D5E
+*color8:  #4C5F63
+*color9:  #B07350
+*color10: #869151
+*color11: #AF6B42
+*color12: #567A6E
+*color13: #D69D55
+*color14: #668574
+*color15: #AB9C71
+
+! vim: ft=xdefaults
